@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://media.tenor.com/iYL_TseFwQ4AAAAC/anime.gif" align="center" height="" width="250" />
-<img src="https://media.tenor.com/o0GK12O0m-oAAAAM/adel-jkt48-dedel-jkt48.gif" align="center" height="" width="250" />
+<!--<img src="https://media.tenor.com/o0GK12O0m-oAAAAM/adel-jkt48-dedel-jkt48.gif" align="center" height="" width="250" />-->
 </div>  
   
 
